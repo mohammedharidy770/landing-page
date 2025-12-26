@@ -68,7 +68,7 @@ body {
 /* Hero */
 .hero {
   background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
-  url('./Images/wallpaperflare.com_wallpaper.jpg') center/cover;
+  url('./wallpaperflare.com_wallpaper.jpg') center/cover;
   color: white;
   padding: 120px 20px;
   text-align: center;
